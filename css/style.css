@@ -1,0 +1,37 @@
+.main{
+    background-color: #ffd338;
+}
+
+a.nav-link {
+    color: white !important;
+    font-family: 'Dosis', sans-serif;
+    font-size: 25px;
+}
+.user{
+    display: inline-block;
+    padding: 10px;
+    font-size: 34px;
+    margin-top: 10px;
+    color: white;
+    cursor: pointer;
+}
+.find{
+    display: inline-block;
+    padding: 10px;
+    font-size: 34px;
+    color: white;
+    cursor: pointer;
+}
+.logo{
+    margin-right: 95px;
+}
+a.nav-link:hover{
+    background-color: #f05c5c;
+    border-radius: 100px;
+}
+.user:hover{
+    color: #f05c5c;
+}
+.find:hover{
+    color: #f05c5c;
+}
